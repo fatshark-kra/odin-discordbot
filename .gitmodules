@@ -1,0 +1,6 @@
+[submodule "external/odin-dotenv"]
+	path = external/odin-dotenv
+	url = https://github.com/fatshark-kra/odin-dotenv
+[submodule "external/odin-http"]
+	path = external/odin-http
+	url = https://github.com/laytan/odin-http
